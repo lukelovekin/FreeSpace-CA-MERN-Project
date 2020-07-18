@@ -1,11 +1,11 @@
 # FreeSpace Portfolio Website
-## CA-MERN-Stack-Part-A
+## CA-MERN-Stack-Part-B
 
 T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 - Deployed Front End Site: https://free-space.gq/
 - Deployed Back End Site: https://free-space-api.herokuapp.com/
-- Github Repo Part A docs: https://github.com/lukelovekin/CA-MERN-Stack-Part-A
+- Github Repo Part B docs: https://github.com/lukelovekin/FreeSpace-CA-MERN-Project
 - Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
 - Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
 
