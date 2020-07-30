@@ -5,7 +5,8 @@ T3A2-A MERN Stack Project Part A | Gabby, Pedro, Luke.
 
 - Deployed Front End Site: https://free-space.gq/
 - Deployed Back End Site: https://free-space-api.herokuapp.com/
-- Github Repo Part B docs: https://github.com/lukelovekin/FreeSpace-CA-MERN-Project
+- Github Repo Full Project (A/B) docs: https://github.com/lukelovekin/FreeSpace-CA-MERN-Project
+
 - Github Repo Part B Front-End: https://github.com/lukelovekin/FreeSpace-FrontEnd
 - Github Repo Part B Back-End: https://github.com/lukelovekin/FreeSpace-BackEnd-Api
 
@@ -191,7 +192,7 @@ Prototyping for all screen sizes complete. Mobile and tablet logout buttons adde
 - TBC
 </details>
 
-## Project Management
+## Project Management/ Task Delegation
 
 Trello Board Link: https://trello.com/b/vcGGvVN7/mern-stack-assessment
 
@@ -200,6 +201,8 @@ Starting with the planning stage of the project, after thoroughly going over the
 Our team refers back to the Trello board at least every morning and afternoon, if not every time we finish a tasks.  Most important cards are discussed first and ee move cards that we aim to do on that day into the "Doing" column, move cards into the "Done" column when they are complete as well as constantly adding more User Stories and To Dos to their columns to at least aim to complete.
 
 Throughout the day, things that come into mind that will need doing or may cause errors, later on, are noted via a shared Google Docs, commented on in our shared repository and even added to the Trello in the appropriate area.
+
+Using task delegation, we initially split the trello cards out making sure backend tasks were kept proirity of the front end task, each time a task was complete the group discussed which tasks should be approached next while keeping in mind what has and hasnt been done, as the due date came closer we moved some cards into the sprinkle column and rethought about our MVP.
 
 <details closed>
 <summary>Trello Screenshots</summary>
@@ -226,6 +229,13 @@ Throughout the day, things that come into mind that will need doing or may cause
 
 </details>
 
+<details closed>
+<summary>Last day of Project</summary>
+
+![trello day 2](./docs/trellolast.JPG)
+
+</details>
+
 </details>
 
 <details closed>
@@ -235,4 +245,40 @@ Throughout the day, things that come into mind that will need doing or may cause
 
 </details>
 
+
+
+## Evidence of User Testing
+
+<details closed>
+<summary><strong>Development</strong></summary>
+
+- Uploading multiple photos isn’t great
+- Form/Field validations
+- Non google auth sign in (i have it working i jut feel like its buggy)
+- Make social links clickable
+- There is no information on the about page. Response: Information about the application was added to the about page.
+- Owners portfolio url could use their name and not an index value
+- Move the delete button off the portfolio page and onto the portal page
+- Need more then one template
+- Styling is minimal
+- Some components should have been made up of a couple of components instead
+
+</details>
+
+<details closed>
+<summary><strong>Production</strong></summary>
+
+The link to our deployed site was sent out to various developers, and non-developers and the following is a summary of the feedback received.
+
+User 1: successfully uploaded profile pic
+
+User 2: Images on about page not displaying
+
+User 3: i think current major issue is, user could create multiple portfolios, but since the second and after, the pictures and info are saved and link is "https://free-space.gq/portfolios/undefined" so not available to reuse,and after several portfolio, the linkable portfolio missing edit button
+
+![evidence of user testing](./docs/evidence_of_user_testing.png)
+
+User 4 looks good.  Issues:  Some pictures not displaying on welcome page and about, in the edit portfolio page the button to update didn't do anything.  When i was logged out the url with my portfolio had a delete button.
+
+</details>
 
